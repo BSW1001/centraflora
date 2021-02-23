@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Add Home Title Here</title>
+	<atom:link href="https://BSW1001.github.io/centraflora/feed" rel="self" type="application/rss+xml" />
+	<link>https://BSW1001.github.io/centraflora</link>
+	<description>Add Meta Description Here</description>
+	<lastBuildDate>Monday, 22 February 2021 18:42:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>The Perfect Gift as well as Flower Delivery</title>
+		<link>https://BSW1001.github.io/centraflora/birthdays/The-Perfect-Gift-as-well-as-Flower-Delivery.html</link>
+		<pubDate>Monday, 22 February 2021 18:42:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[birthdays]]></category>
+		<guid isPermaLink="false">https://BSW1001.github.io/centraflora/birthdays/The-Perfect-Gift-as-well-as-Flower-Delivery.html</guid> 
+		<description><![CDATA[The Perfect Gift as well as Flower Delivery
+by
+Posted on 22-02-2021 06:42 PM
+On This Page 
+ 
+ The Perfect Gift as well as Flower Delivery, Whether It's a Big day or Any Kind Of Day 
+ Great Customer Support and also Quick Flower Delivery 
+ 
+ 
+ 
+ The Perfect Gift as well as Flower Delivery, Whether It's a Big day or Any Kind Of Day 
+ French peas offers convenient same-day flower delivery in the tyler, texas areaAs the premier florist in east texas, allow french peas create a custom fresh flower arrangement, english garden, or growing to be hand designed and also delivered by our expert team
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
